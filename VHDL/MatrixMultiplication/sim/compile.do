@@ -1,0 +1,15 @@
+vcom ../src/main_controller.vhd
+vcom ../src/matrices_mult.vhd
+vcom ../src/matrices_mult_tb.vhd
+vcom ../src/my_multiplier.vhd
+vcom ../src/matrix_ram.vhd
+vcom ../src/bcd_to_7seg.vhd
+vcom ../src/bin2bcd_12bit_sync.vhd
+vcom ../src/data_generator_pack.vhd
+vcom ../src/data_generator.vhd
+vcom ../src/data_generator_tb.vhd
+vcom ../src/matrix_ram_tb.vhd
+vcom ../src/my_multiplier_tb.vhd
+vcom ../src/num_convert.vhd
+vcom ../src/sync_diff.vhd
+vcom ../src/bin2bcd_12bit_sync_tb.vhd
