@@ -7,3 +7,6 @@
 - **src**: Contains the main Verilog code for logic implementations.
 - **sim**: Contains the testbenches and simulation files for ModelSim/Questa to verify the design.
 - **par**: The place and route files used to implement the design on FPGA hardware through Quartus.
+
+### Project1 - shifting_lights
+The shifting lights project simulates a simple on/off control system using digital logic in Verilog. It consists of a pulse generator to create a clock signal at a slower frequency, a shift register to manage the state of the light, and a direction control to manage the light's shifting behavior. 
