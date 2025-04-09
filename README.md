@@ -4,6 +4,6 @@
 
 ### Project Files
 
-- **src**: Contains the main Verilog code for the light shifting logic.
+- **src**: Contains the main Verilog code for logic implementations.
 - **sim**: Contains the testbenches and simulation files for ModelSim/Questa to verify the design.
-- **par**: The place and route files used to implement the design on FPGA hardware.
+- **par**: The place and route files used to implement the design on FPGA hardware through Quartus.
